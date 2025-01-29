@@ -1,1 +1,0 @@
-/Users/philip/Public/University/Algorithmic-Problem-Solving/Exercises/exercise_1/ljutljanka/target/debug/ljutljanka: /Users/philip/Public/University/Algorithmic-Problem-Solving/Exercises/exercise_1/ljutljanka/src/main.rs
