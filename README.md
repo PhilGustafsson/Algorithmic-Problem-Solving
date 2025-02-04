@@ -10,3 +10,5 @@
 [Chopping Wood](/Exercises/chopping_wood/src/main.rs)
 
 [Perfect Pth Power](/Exercises/perfect_pth_power/src/main.rs)
+
+[Cudak](/Exercises/cudak/src/main.rs)
