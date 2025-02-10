@@ -1,0 +1,6 @@
+[package]
+name = "getting_gold"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
